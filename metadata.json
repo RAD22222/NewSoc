@@ -1,0 +1,8 @@
+{
+  "name": "Glimpse",
+  "description": "A stylish social media application for visual storytelling, featuring a minimalist aesthetic and immersive photo feeds.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
